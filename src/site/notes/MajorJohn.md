@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/major-john/","tags":["gardenEntry"]}
 ---
 
+![photo_2025-06-02_12-05-30.jpg|300](/img/user/_attachments/photo_2025-06-02_12-05-30.jpg)
 ### Bio
 **Yohanes Fikru** is a game developer, software engineer, and co-founder of **Muqecha Studios** — an Ethiopian game studio creating bold, conversation-starting games. With a passion for blending storytelling, social commentary, and interactivity, Yohanes helps lead projects like _Lomi_, a powerful game about catcalling during Timket, and the upcoming _Kushneta_.
 
